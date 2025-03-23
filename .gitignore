@@ -1,0 +1,8 @@
+# Node modules e dependências
+node_modules/
+.env
+.vercel/
+.next/
+.DS_Store
+npm-debug.log
+yarn-error.log
