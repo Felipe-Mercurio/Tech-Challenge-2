@@ -11,8 +11,5 @@
       "src": "/(.*)",
       "dest": "dist/server.js"
     }
-  ],
-  "env": {
-    "PORT": "5000"
-  }
+  ]
 }
